@@ -6,6 +6,7 @@ A modern, stylish e-commerce application built with Flutter. The app demonstrate
 
 - **Splash Screen:**  
   An animated splash page with a gradient background and fade‑in effect that displays "E-commerce App" and "By Isaias" before automatically navigating to the main product list.
+
 ![splash](assets/splash.png)
 
 - **Product Listings:**  
@@ -14,6 +15,7 @@ A modern, stylish e-commerce application built with Flutter. The app demonstrate
   - Product name, price, and rating.
   - Smooth animations and soft shadows on each card.
   - Tap on a product to view detailed information.
+    
 ![products](assets/products.png)
 
 - **Product Detail Page:**  
@@ -22,6 +24,7 @@ A modern, stylish e-commerce application built with Flutter. The app demonstrate
   - Product description and detailed pricing.
   - Customer reviews and ratings.
   - "Add to Cart" button with visual feedback.
+    
 ![productDetail](assets/prodDetail.png)
 
 - **Shopping Cart & Checkout:**  
@@ -29,6 +32,7 @@ A modern, stylish e-commerce application built with Flutter. The app demonstrate
   - Easy removal or update of items in the cart.
   - A checkout page that summarizes the cart items and total amount.
   - Confirmation feedback upon successful checkout.
+    
 ![cart](assets/cart.png)
 ![checkout](assets/checkout.png)
 
